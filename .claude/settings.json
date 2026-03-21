@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(python *)",
+      "Bash(ruff *)",
+      "Bash(pytest *)",
+      "Bash(brew *)"
+    ],
+    "deny": ["Bash(rm -rf *)"]
+  },
+  "hooks": {
+    "PostToolUse": [{
+      "matcher": "Write|Edit",
+      "hooks": [{
+        "type": "command",
+        "command": "ruff format . || true"
+      }]
+    }]
+  }
+}
+

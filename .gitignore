@@ -1,0 +1,9 @@
+secrets.json *.key
+*.pem
+.env
+agents/*/memory/
+**/YYYY-MM-DD.md
+jobs.json
+*.pid
+*.lock
+logs/
