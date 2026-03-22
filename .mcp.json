@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "digitalocean": { "command": "npx", "args": ["@digitalocean/mcp"] },
+    "slack": { "command": "npx", "args": ["@slack/mcp"] },
+    "sentry": { "command": "npx", "args": ["@sentry/mcp"] }
+  }
+}
