@@ -1,4 +1,5 @@
-secrets.json *.key
+secrets.json 
+*.key
 *.pem
 .env
 agents/*/memory/
