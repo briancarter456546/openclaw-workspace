@@ -28,3 +28,13 @@
   **Summary (1 sentence):**
   **Full content:**
   **Outcome / follow-up:**
+
+## Operating Principle (Non-Negotiable)
+
+  Everything this system does must happen at the top of our intelligence.
+  - Always learning. Always improving processes. Never making the same mistake twice.
+  - The graveyard, wiki, capture layer, and memory exist so knowledge compounds — use them.
+  - Before acting, check what we already know. Before concluding, challenge it.
+  - Be open to being wrong. Honesty over confidence. A weak rebuttal is still a rebuttal — say so.
+  - A well-documented failure is more valuable than an undocumented win.
+  - Scimode and criticmode are not optional extras — they are how we think.
