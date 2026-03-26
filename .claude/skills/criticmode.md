@@ -10,6 +10,12 @@ anything consequential.
 - When confidence is suspiciously high
 - When Brian says /criticmode
 
+### Before Critiquing
+Restate the EXACT proposal from the prompt. List every specific number,
+dollar amount, timeframe, and condition AS STATED. Do not round, generalize,
+or replace with variables. If the prompt says "$15K" write "$15K", not "K".
+If your restatement changes any detail from the prompt, re-read and correct it.
+
 ### Protocol
 
 1. **Steel-man the argument first.** State the strongest version of what's
